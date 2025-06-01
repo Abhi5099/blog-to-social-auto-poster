@@ -9,7 +9,7 @@ This project automates social media content creation by:
 Built for creators and marketers to save time and maintain consistent cross-platform engagement.  
 
 ## Screenshot  
-![Make.com workflow for blog-to-social automation](https://github.com/Abhi5099/blog-to-social-auto-poster/blob/main/Screenshot%202025-06-02%20043859.png?raw=true)  
+![Make.com workflow for blog-to-social automation][(https://github.com/Abhi5099/blog-to-social-auto-poster/blob/main/Screenshot%202025-06-02%20043859.png?raw=true](https://github.com/Abhi5099/blog-to-social-auto-poster/blob/main/Screenshot%202025-06-02%20043904.png?raw=true))  
 *Alt text: Make.com scenario showing blog content being processed by ChatGPT and routed to social platforms.*  
 
 ## Tools & Platforms Used  
